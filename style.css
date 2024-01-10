@@ -1,0 +1,32 @@
+body {
+    background-color: pink;
+    margin: 10%;
+    border: solid;
+}
+
+div {
+    margin: 10%;
+    border: solid;
+    padding: 10%;
+    background-color: aqua;
+}
+
+.mamedicaLink {
+
+    color: green;
+    background-color: aquamarine;
+    text-decoration: none;
+}
+
+.mamedicaLink:hover {
+
+    background-color: blueviolet;
+    
+}
+
+#backgroundImage {
+    background-image: url('/Images/youtube.png');
+    background-repeat: no-repeat;
+    height: 200px;
+
+}
